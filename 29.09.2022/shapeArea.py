@@ -1,3 +1,2 @@
-int solution(int n) {
-    return n*n+(n-1)*(n-1);
-}
+def solution(n):
+    return n*n+(n-1)*(n-1)
